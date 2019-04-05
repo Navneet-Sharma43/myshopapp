@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "485576266570",
+    "firebase_url": "https://myshopproject-9b742.firebaseio.com",
+    "project_id": "myshopproject-9b742",
+    "storage_bucket": "myshopproject-9b742.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485576266570:android:bcccc3059f7db572",
+        "android_client_info": {
+          "package_name": "com.navneat.flutterappadvance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2W9TFto8b6MQnsoSyfI3657C1ZiVfdsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485576266570-i00rit763jgpm3qmdpusp05vl50qidl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
